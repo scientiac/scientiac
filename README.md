@@ -1,16 +1,11 @@
-## Hi there 👋
 
-<!--
-**scientiac/scientiac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <img src="https://scientiac.space/res/colors/logo-night-spaceduck.svg" width="80" />
+    <h1>𝔥𝔦, 𝔦 𝔞𝔪 𝔰𝔠𝔦𝔢𝔫𝔱𝔦𝔞𝔠.</h1>
+</div>
+<div align="center">
+  <p>
+    I am a <strong>Computer Engineering student</strong> who loves <strong>FOSS</strong> and is learning about <strong>privacy</strong>, the <strong>Internet</strong>, and <strong>languages</strong>. I sometimes write <strong>poems</strong>, <strong>stories</strong>, and occasionally some <strong>articles</strong> too.<br><br>
+    <strong>TL;DR:</strong> I write things, test things, make things, and break things.
+  </p>
+</div>
