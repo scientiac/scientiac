@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://scientiac.space/res/colors/logo-night-spaceduck.svg" width="80" />
+    <img src="/assets/scientiac.svg" width="80" />
     <h1>𝐻𝑖, <code>𝔰𝔠𝔦𝔢𝔫𝔱𝔦𝔞𝔠</code> 𝑖𝑠 𝑤ℎ𝑎𝑡 𝐼 𝑔𝑜 𝑏𝑦.</h1>
 </div>
 <div style="border-radius: 15px; overflow: hidden;">
