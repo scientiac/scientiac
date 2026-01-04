@@ -1,7 +1,7 @@
 
 <div align="center">
     <img src="https://scientiac.space/res/colors/logo-night-spaceduck.svg" width="80" />
-    <h1>𝔥𝔦, 𝔦 𝔞𝔪 𝔰𝔠𝔦𝔢𝔫𝔱𝔦𝔞𝔠.</h1>
+    <h1>𝔥𝔦,  𝔦  𝔞𝔪  σçιεητιαç.</h1>
 </div>
 <div style="border-radius: 15px; overflow: hidden;">
   <img src="/assets/image.png" />
